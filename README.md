@@ -4,10 +4,10 @@
 ## Screenshots
 
 <p float="left">
-	<img src="https://github.com/dev-aniketj/RoastyToasty/blob/master/SS/SS_1.png"/>
-	<img src="https://github.com/dev-aniketj/RoastyToasty/blob/master/SS/SS_2.png"/>
-	<img src="https://github.com/dev-aniketj/RoastyToasty/blob/master/SS/SS_3.png"/>
-	<img src="https://github.com/dev-aniketj/RoastyToasty/blob/master/SS/SS_4.png"/>
+	<img src="https://github.com/dev-aniketj/Brick-Breaker-Game/blob/master/SS/SS_1.png" width="200"/>
+	<img src="https://github.com/dev-aniketj/Brick-Breaker-Game/blob/master/SS/SS_2.png" width="200"/>
+	<img src="https://github.com/dev-aniketj/Brick-Breaker-Game/blob/master/SS/SS_3.png" width="200"/>
+	<img src="https://github.com/dev-aniketj/Brick-Breaker-Game/blob/master/SS/SS_4.png" width="200"/>
 </p>
 
 ## Contributing
