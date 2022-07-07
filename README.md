@@ -1,10 +1,12 @@
 # Brick-Breaker-Game
-#### I develop brick breaker game which is purely developed by using JAVA Language.
+### I develop brick breaker game which is purely developed by using JAVA Language.
+
+###### Use [Netbeans](https://netbeans.apache.org/) to run this project, or you can run the jar file `dist/Brick_Breaker_Game.jar`
 
 ## Screenshots
 
 <p float="left">
-	<img src="https://github.com/dev-aniketj/Brick-Breaker-Game/blob/master/SS/SS_1.png" width="20"/>
+	<img src="https://github.com/dev-aniketj/Brick-Breaker-Game/blob/master/SS/SS_1.png" width="100"/>
 	<img src="https://github.com/dev-aniketj/Brick-Breaker-Game/blob/master/SS/SS_2.png" width="100"/>
 	<img src="https://github.com/dev-aniketj/Brick-Breaker-Game/blob/master/SS/SS_3.png" width="100"/>
 	<img src="https://github.com/dev-aniketj/Brick-Breaker-Game/blob/master/SS/SS_4.png" width="100"/>
