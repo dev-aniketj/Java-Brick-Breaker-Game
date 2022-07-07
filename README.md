@@ -4,7 +4,7 @@
 ## Screenshots
 
 <p float="left">
-	<img src="https://github.com/dev-aniketj/Brick-Breaker-Game/blob/master/SS/SS_1.png" width="100"/>
+	<img src="https://github.com/dev-aniketj/Brick-Breaker-Game/blob/master/SS/SS_1.png" width="20"/>
 	<img src="https://github.com/dev-aniketj/Brick-Breaker-Game/blob/master/SS/SS_2.png" width="100"/>
 	<img src="https://github.com/dev-aniketj/Brick-Breaker-Game/blob/master/SS/SS_3.png" width="100"/>
 	<img src="https://github.com/dev-aniketj/Brick-Breaker-Game/blob/master/SS/SS_4.png" width="100"/>
