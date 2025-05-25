@@ -1,7 +1,8 @@
 # Java Brick Breaker Game
 ### I developed a brick breaker game, which is purely developed using Java.
 
-###### Use [Netbeans](https://netbeans.apache.org/) to run this project, or you can run the jar file `dist/Brick_Breaker_Game.jar`
+###### Use [NetBeans](https://netbeans.apache.org/) to run this project, or you can run the JAR file from [`dist/Brick_Breaker_Game.jar`](https://github.com/dev-aniketj/Java-Brick-Breaker-Game/blob/main/dist/Brick_Breaker_Game.jar)
+
 
 ## Screenshots
 
