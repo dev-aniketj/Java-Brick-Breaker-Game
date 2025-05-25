@@ -6,11 +6,11 @@
 ## Screenshots
 
 <p align="left">
-	<img src="https://github.com/dev-aniketj/Java-Brick-Breaker-Game/blob/main/SS/image1.jpg" width="200"/>
-	<img src="https://github.com/dev-aniketj/Java-Brick-Breaker-Game/blob/main/SS/SS_1.PNG?raw=true" width="100"/>
-	<img src="https://github.com/dev-aniketj/Java-Brick-Breaker-Game/blob/main/SS/SS_2.PNG?raw=true" width="100"/>
-	<img src="https://github.com/dev-aniketj/Java-Brick-Breaker-Game/blob/main/SS/SS_3.png?raw=true" width="100"/>
-	<img src="https://github.com/dev-aniketj/Java-Brick-Breaker-Game/blob/main/SS/SS_4.PNG?raw=true" width="100"/>
+	<img src="https://github.com/dev-aniketj/Java-Brick-Breaker-Game/blob/main/SS/image1.jpg" width="700"/>
+	<img src="https://github.com/dev-aniketj/Java-Brick-Breaker-Game/blob/main/SS/SS_1.PNG?raw=true" width="350"/>
+	<img src="https://github.com/dev-aniketj/Java-Brick-Breaker-Game/blob/main/SS/SS_2.PNG?raw=true" width="350"/>
+	<img src="https://github.com/dev-aniketj/Java-Brick-Breaker-Game/blob/main/SS/SS_3.png?raw=true" width="350"/>
+	<img src="https://github.com/dev-aniketj/Java-Brick-Breaker-Game/blob/main/SS/SS_4.PNG?raw=true" width="350"/>
 </p>
 
 ## Contributing
